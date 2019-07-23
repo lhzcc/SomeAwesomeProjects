@@ -4,17 +4,18 @@
 
 ### 0、目录
 
-- [1、mybatis](https://github.com/lhzcc/some-nb-projects#1mybatis)
-- [2、刷题](https://github.com/lhzcc/some-nb-projects#2%E5%88%B7%E9%A2%98)
-- [3、springboot入门项目](https://github.com/lhzcc/some-nb-projects#3springboot%E5%85%A5%E9%97%A8%E9%A1%B9%E7%9B%AE)
-- [4、微信开发](https://github.com/lhzcc/some-nb-projects#4%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91)
-- [5、前端](https://github.com/lhzcc/some-nb-projects#5%E5%89%8D%E7%AB%AF)
-- [6、工具](https://github.com/lhzcc/some-nb-projects#6%E5%B7%A5%E5%85%B7)
-- [7、git相关](https://github.com/lhzcc/some-nb-projects#7git%E7%9B%B8%E5%85%B3)
-- [8、博客](https://github.com/lhzcc/some-nb-projects#8%E5%8D%9A%E5%AE%A2)
-- [9、浪漫？](https://github.com/lhzcc/some-nb-projects#9%E6%B5%AA%E6%BC%AB)
+- [mybatis](https://github.com/lhzcc/some-nb-projects#1mybatis)
+- [刷题](https://github.com/lhzcc/some-nb-projects#2%E5%88%B7%E9%A2%98)
+- [springboot入门项目](https://github.com/lhzcc/some-nb-projects#3springboot%E5%85%A5%E9%97%A8%E9%A1%B9%E7%9B%AE)
+- [微信开发](https://github.com/lhzcc/some-nb-projects#4%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91)
+- [前端](https://github.com/lhzcc/some-nb-projects#5%E5%89%8D%E7%AB%AF)
+- [工具](https://github.com/lhzcc/some-nb-projects#6%E5%B7%A5%E5%85%B7)
+- [git相关](https://github.com/lhzcc/some-nb-projects#7git%E7%9B%B8%E5%85%B3)
+- [博客](https://github.com/lhzcc/some-nb-projects#8%E5%8D%9A%E5%AE%A2)
+- (爬虫)[]
+- [浪漫？](https://github.com/lhzcc/some-nb-projects#9%E6%B5%AA%E6%BC%AB)
 
-### 1、mybatis
+### mybatis
 
 > **（1）mybatis增强插件，男女搭配干活不累**
 >
@@ -30,7 +31,7 @@
 >
 > 文档地址：https://github.com/pagehelper/Mybatis-PageHelper/blob/master/README_zh.md
 
-### 2、刷题
+### 刷题
 
 > **（1）LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)**
 >
@@ -65,8 +66,14 @@
 > **（6）Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）**
 >
 > 项目地址：https://github.com/MisterBooo/LeetCodeAnimation
+>
+> ------
+>
+> **（7）A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. https://30secondsofcode.org/** 
+>
+> 项目地址：https://github.com/30-seconds/30-seconds-of-code
 
-### 3、springboot入门项目
+### springboot入门项目
 
 > **（1）spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。 [https://www.javaspring.net](https://www.javaspring.net/)**
 >
@@ -90,7 +97,7 @@
 >
 > 项目地址：https://github.com/zhangyd-c/springboot-shiro
 
-### 4、微信开发
+### 微信开发
 
 - 二维码
 
@@ -112,9 +119,15 @@
 
 - 微信公众号
 
-  > **微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML https://lab.lyric.im/wxformat**
+  > **（1）微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML https://lab.lyric.im/wxformat**
   >
   > 项目地址：https://github.com/lyricat/wechat-format
+  >
+  > ------
+  >
+  > **（2）WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发**
+  >
+  > 项目地址：https://github.com/Wechat-Group/WxJava
 
 - 组件库
 
@@ -128,7 +141,7 @@
   >
   > 项目地址：https://github.com/weilanwl/ColorUI
 
-### 5、前端
+### 前端
 
 - 教程
 
@@ -136,7 +149,7 @@
   >
   > 项目地址：https://github.com/PanJiaChen/awesome-bookmarks
   >
-  > 
+  > ------
   >
   > **（2）花裤衩：a vue2.0 minimal admin template https://git.io/fAnuM**
   >
@@ -165,6 +178,12 @@
   > **（4）🌍 基于 Vue 2.x 和高德地图的地图组件 https://elemefe.github.io/vue-amap/**
   >
   > 项目地址：https://github.com/ElemeFE/vue-amap
+  >
+  > ------
+  >
+  > **（5）丰富多样的 Web 弹出层组件，可轻松实现 Alert/Confirm/Prompt/ 普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案 [http://layer.layui.com](http://layer.layui.com/)**
+  >
+  > 项目地址：https://github.com/sentsin/layer
 
 - 管理模板
 
@@ -214,7 +233,7 @@
   >
   > 项目地址：https://github.com/devin87/web-uploader
 
-### 6、工具
+### 工具
 
 - JAVA
 
@@ -246,13 +265,13 @@
   >
   > 项目地址：https://github.com/webtorrent/webtorrent
 
-### 7、git相关
+### git相关
 
 > ![:trollface:](https://github.githubassets.com/images/icons/emoji/trollface.png)**Git的奇技淫巧**	
 >
 > 项目地址：https://github.com/521xueweihan/git-tips
 
-### 8、博客
+### 博客
 
 - 后台管理系统
 
@@ -278,7 +297,13 @@
   >
   > 项目地址：https://github.com/pinggod/hexo-theme-apollo
 
-### 9、浪漫？
+### 爬虫
+
+> **A scalable web crawler framework for Java. http://webmagic.io/**
+>
+> 项目地址：https://github.com/code4craft/webmagic
+
+### 浪漫？
 
 > （1）💗 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件
 >
