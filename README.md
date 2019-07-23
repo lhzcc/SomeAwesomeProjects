@@ -2,7 +2,7 @@
 
 本项目收藏一些比较常用，并且比较有意思的项目
 
-### 0、目录
+### 目录
 
 - [mybatis](https://github.com/lhzcc/some-nb-projects#mybatis)
 - [刷题](https://github.com/lhzcc/some-nb-projects#%E5%88%B7%E9%A2%98)
