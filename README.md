@@ -4,16 +4,16 @@
 
 ### 0、目录
 
-- [mybatis](https://github.com/lhzcc/some-nb-projects#1mybatis)
-- [刷题](https://github.com/lhzcc/some-nb-projects#2%E5%88%B7%E9%A2%98)
-- [springboot入门项目](https://github.com/lhzcc/some-nb-projects#3springboot%E5%85%A5%E9%97%A8%E9%A1%B9%E7%9B%AE)
-- [微信开发](https://github.com/lhzcc/some-nb-projects#4%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91)
-- [前端](https://github.com/lhzcc/some-nb-projects#5%E5%89%8D%E7%AB%AF)
-- [工具](https://github.com/lhzcc/some-nb-projects#6%E5%B7%A5%E5%85%B7)
-- [git相关](https://github.com/lhzcc/some-nb-projects#7git%E7%9B%B8%E5%85%B3)
-- [博客](https://github.com/lhzcc/some-nb-projects#8%E5%8D%9A%E5%AE%A2)
+- [mybatis](https://github.com/lhzcc/some-nb-projects#mybatis)
+- [刷题](https://github.com/lhzcc/some-nb-projects#%E5%88%B7%E9%A2%98)
+- [springboot入门项目](https://github.com/lhzcc/some-nb-projects#springboot%E5%85%A5%E9%97%A8%E9%A1%B9%E7%9B%AE)
+- [微信开发](https://github.com/lhzcc/some-nb-projects#%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91)
+- [前端](https://github.com/lhzcc/some-nb-projects#%E5%89%8D%E7%AB%AF)
+- [工具](https://github.com/lhzcc/some-nb-projects#%E5%B7%A5%E5%85%B7)
+- [git相关](https://github.com/lhzcc/some-nb-projects#git%E7%9B%B8%E5%85%B3)
+- [博客](https://github.com/lhzcc/some-nb-projects#%E5%8D%9A%E5%AE%A2)
 - [爬虫](https://github.com/lhzcc/some-nb-projects/blob/master/README.md#%E7%88%AC%E8%99%AB)
-- [浪漫？](https://github.com/lhzcc/some-nb-projects#9%E6%B5%AA%E6%BC%AB)
+- [浪漫？](https://github.com/lhzcc/some-nb-projects#%E6%B5%AA%E6%BC%AB)
 
 ### mybatis
 
