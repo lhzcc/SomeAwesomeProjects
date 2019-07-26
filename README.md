@@ -87,6 +87,12 @@
 >
 > ------
 >
+> **（3）WEB-FLASH -- Admin Framework and Mobile Website Based on Spring Boot and Vue.js http://enilu.github.io/web-flash**
+>
+> 项目地址：https://github.com/enilu/web-flash
+>
+> ------
+>
 > **（3）about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 http://www.ityouknow.com/**
 >
 > 项目地址：https://github.com/ityouknow/spring-boot-examples
