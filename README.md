@@ -107,9 +107,13 @@
 
 - 二维码
 
-  > **微信小程序--二维码生成器**
+  > **（1）微信小程序--二维码生成器**
   >
   > 项目地址：https://github.com/demi520/wxapp-qrcode
+  >
+  > **（2）weapp.qrcode.js 在 微信小程序 中，快速生成二维码**
+  >
+  >项目地址：https://github.com/yingye/weapp-qrcode
 
 - 图表
 
