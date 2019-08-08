@@ -306,6 +306,11 @@
   > **（3）a clean and delicate hexo theme**
   >
   > 项目地址：https://github.com/pinggod/hexo-theme-apollo
+  >
+  > ------
+  >
+  > **（4）🎸 一款小而美的博客系统，专为程序员设计。 https://solo.b3log.org **
+  > 项目地址：https://github.com/b3log/solo
 
 ### 爬虫
 
