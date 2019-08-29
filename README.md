@@ -194,7 +194,31 @@
   > **（5）丰富多样的 Web 弹出层组件，可轻松实现 Alert/Confirm/Prompt/ 普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案 [http://layer.layui.com](http://layer.layui.com/)**
   >
   > 项目地址：https://github.com/sentsin/layer
-
+  >
+  > ------
+  >
+  > **（6）🇨🇳 汉字拼音 ➜ hàn zì pīn yīn https://hotoo.github.io/pinyin/**
+  >
+  > 项目地址：https://github.com/hotoo/pinyin
+  >
+  > ------
+  >
+  > **（7）人脸识别库：A face detection library in 200 lines of JavaScript**
+  >
+  > 项目地址：https://github.com/tehnokv/picojs
+  >
+  > ------
+  >
+  > **（8）移除没有用的css： Remove unused CSS. Also works with single-page apps.**
+  >
+  > 项目地址：https://github.com/purifycss/purifycss
+  >
+  > ------
+  >
+  > **（9）一个自适应，且自定义性强的弹出框（零依赖）: A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. https://sweetalert2.github.io/**
+  >
+  > 项目地址：https://github.com/sweetalert2/sweetalert2
+  
 - 管理模板
 
   > **（1）🌈 An elegant dashboard [https://d2admin.fairyever.com](https://d2admin.fairyever.com/)**
