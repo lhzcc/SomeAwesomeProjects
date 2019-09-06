@@ -102,6 +102,13 @@
 > **（4）🍀 Springboot + shiro权限管理。这或许是流程最详细、代码最干净、配置最简单的shiro上手项目了。**
 >
 > 项目地址：https://github.com/zhangyd-c/springboot-shiro
+> 
+> ------
+>
+> **（5）项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 https://auauz.net **
+>
+> 项目地址：https://github.com/elunez/eladmin
+> 
 
 ### 微信开发
 
